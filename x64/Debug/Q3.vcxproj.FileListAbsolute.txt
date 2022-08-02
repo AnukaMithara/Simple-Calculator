@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\LAB09_2019E054\Q3\x64\Debug\Q3.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\LAB09_2019E054\Q3\x64\Debug\TASK04.MyForm.resources
+C:\Users\user\Desktop\LAB09_2019E054\Q3\x64\Debug\Q3.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\LAB09_2019E054\Q3\x64\Debug\Q3.exe
+C:\Users\user\Desktop\LAB09_2019E054\Q3\x64\Debug\Q3.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Com labs\bank\Debug\TASK04.MyForm.resources
+C:\Users\user\Desktop\Com labs\bank\Debug\Q3.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Q3\Debug\Q3.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\Q3\Debug\TASK04.MyForm.resources
+C:\Users\user\Desktop\Q3\Debug\Q3.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Q3\Debug\Q3.exe
+C:\Users\user\Desktop\Q3\Debug\Q3.pdb
